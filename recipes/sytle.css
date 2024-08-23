@@ -1,0 +1,10 @@
+body {
+    max-width: 600px;
+    margin: 0 auto;
+} ; 
+
+.title {
+background-color: aliceblue;
+padding: 16px;
+text-align: left;
+}
